@@ -2,7 +2,7 @@
 
 # 🎮 So Long
 
-### ✅ Result: 122/100
+### ✅ Result: 100/100
 
 ## 📄 Description
 So Long is a small 2D game developed using the MiniLibX library. The goal is to create a simple top-down puzzle game where a player collects all items on a map and reaches an exit while avoiding obstacles (or enemies in the bonus part). This project serves as an introduction to basic graphics programming, window management, event handling (keyboard and mouse), and working with textures and sprites.
