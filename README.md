@@ -2,6 +2,8 @@
 
 # 🎮 So Long
 
+<img width="643" height="359" alt="Screenshot from 2026-02-22 11-51-37" src="https://github.com/user-attachments/assets/0f566a8f-4f04-4392-bede-35f0fccd0765" />
+
 ### ✅ Result: 100/100
 
 ## 📄 Description
